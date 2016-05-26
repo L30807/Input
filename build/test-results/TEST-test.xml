@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-05-20T03:45:34" hostname="L308Dell07" time="0.014">
+  <properties/>
+  <testcase name="Test" classname="test" time="0.013"/>
+  <testcase name="Test1" classname="test" time="0.001"/>
+  <system-out><![CDATA[Enter the correct phrase (This program is caps sensitive):
+Enter the correct phrase (This program is caps sensitive):
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
